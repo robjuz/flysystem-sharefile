@@ -18,6 +18,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/robjuz/sharefile-api"
+        },
+    ]
     "require": {
         "php": "^7.0",
         "ext-curl": "*",
