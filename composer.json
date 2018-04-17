@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.0",
         "ext-curl": "*",
-        "kapersoft/sharefile-api": "^1.1.0",
+        "kapersoft/sharefile-api": "dev-master",
         "league/flysystem": "^1.0.41"
     },
     "require-dev": {
